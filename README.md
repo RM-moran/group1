@@ -1,3 +1,5 @@
+### 注：此项目作废，请移步到https://github.com/RM-moran/group1](https://github.com/RM-moran/health_assistant
+
 # 🏠 居家轻症护理助手
 
 > 仅限发热、咳嗽等常见轻症的居家护理建议 · 不替代医生诊断
