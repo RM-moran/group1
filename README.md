@@ -1,4 +1,4 @@
-### 注：此项目作废，请移步到https://github.com/RM-moran/group1](https://github.com/RM-moran/health_assistant
+### 注：此项目作废，请移步到https://github.com/RM-moran/health_assistant
 
 # 🏠 居家轻症护理助手
 
